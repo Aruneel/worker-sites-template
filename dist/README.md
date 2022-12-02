@@ -1,0 +1,1 @@
+This folder contains the built output assets for the worker "worker-sites-template" generated at 2022-12-02T08:14:20.764Z.
